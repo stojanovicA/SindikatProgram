@@ -1,0 +1,6 @@
+package domen;
+
+public enum KontrolerPLKonstanta {
+	POST,GET,GET_POZAJMICA,GET_POTVRDA, UPDATE, UPDATE_VRATISARADNJU, IZMENI_FIRMU, VRATI_CLANA
+
+}
